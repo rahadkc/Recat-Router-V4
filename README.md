@@ -1,6 +1,6 @@
 This project was CREATED with [Create React App](https://github.com/facebookincubator/create-react-app).
 
-Just a simple example of creating React CRUD Todo application. You can add todo, delete todo , edit todo etc.
+Just a simple example of creating React Single page application with React Router version 4.
 
 ### React Router version 4
 
